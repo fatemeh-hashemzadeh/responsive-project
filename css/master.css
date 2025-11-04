@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@layer base {
+    a {
+        @apply decoration-0 text-white
+    }
+}
+
+@layer utilities {
+    .row {
+        @apply w-full flex flex-wrap
+    }
+}
+
+@layer components {
+    .btnInDrop {
+        @apply w-full h-[50%] z-20 bg-black text-white p-[10px] flex flex-wrap hover:bg-amber-600 duration-700
+    }
+}
