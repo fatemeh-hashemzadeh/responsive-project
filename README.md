@@ -8,7 +8,7 @@
 
 - [Demo Project](https://fatemeh-hashemzadeh.github.io/responsive-project/)
 
-- Developed by pouria farahani
+- Developed by fatemeh hashemzadeh
 
 - Created - 2025-10-24
 
